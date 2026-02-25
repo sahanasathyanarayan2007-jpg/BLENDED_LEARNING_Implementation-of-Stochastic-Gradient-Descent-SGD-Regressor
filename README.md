@@ -9,10 +9,29 @@ To write a program to implement Stochastic Gradient Descent (SGD) Regressor for 
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+```
+Start
+
+Import required libraries
+
+Load the dataset
+
+Preprocess the data (handle missing values, separate X and y, perform feature scaling)
+
+Split the dataset into training and testing sets
+
+Initialize the SGD Regressor model
+
+Train the model using the training data
+
+Predict the output using the test data
+
+Evaluate the model performance using MSE, RMSE, and R² score
+
+Display the results
+
+Stop
+```
 
 ## Program:
 ```
@@ -66,8 +85,10 @@ plt.show()
 <img width="897" height="532" alt="image" src="https://github.com/user-attachments/assets/048775a3-0eb1-4484-b544-9869b3af0705" />
 <img width="541" height="682" alt="image" src="https://github.com/user-attachments/assets/d6d23be5-604a-40d6-b399-42c04003e51f" />
 <img width="581" height="115" alt="image" src="https://github.com/user-attachments/assets/89f0fa3c-b709-4aba-afe5-3391c0b37072" />
-![Uploading image.png…]()
-![Uploading image.png…]()
+<img width="797" height="210" alt="image" src="https://github.com/user-attachments/assets/8dcae9fe-4adb-4999-b892-e1bdb61d9f35" />
+<img width="565" height="453" alt="image" src="https://github.com/user-attachments/assets/5640e8b1-1ecd-4e30-bfb5-3f5cf3c74c99" />
+
+
 
 
 
